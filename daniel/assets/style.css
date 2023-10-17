@@ -1,0 +1,48 @@
+body {
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 2px solid #333; /* Add a border to create the box effect */
+    border-radius: 10px; /* Rounded corners for the box */
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin: 0 auto;
+    max-width: 300px;
+}
+
+/* Style the result box */
+#result-box {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+#result-box p {
+    margin: 0;
+}
+
+
+.pozdrav {
+    max-width: 600px;
+    padding: 20px;
+    margin: 0 auto 20px; /* Center the div horizontally and add space below */
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 2px solid #333;
+    border-radius: 10px;
+}
